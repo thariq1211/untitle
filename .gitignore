@@ -1,0 +1,17 @@
+# Next.js
+.next/
+out/
+.cache/
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
